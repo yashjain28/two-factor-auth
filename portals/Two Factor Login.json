@@ -1,0 +1,576 @@
+{
+    "config": {
+        "cols": {
+            "lg": 12,
+            "md": 10,
+            "sm": 6,
+            "xs": 4,
+            "xxs": 2
+        },
+        "currentBreakpointForFlyoutWidgets": "lg",
+        "currentBreakpointForPanes": "lg",
+        "currentBreakpointsForWidgets": {
+            "c6d1fa6d-6a2d-4a44-96a0-63bcdc98a58b": "lg",
+            "eb4d744c-2953-4a0c-a1b3-f6d62627d849": "lg"
+        },
+        "datasources": {},
+        "externalScripts": [],
+        "flyoutWidgetLayout": {
+            "lg": [],
+            "md": [],
+            "sm": [],
+            "xs": [],
+            "xxs": []
+        },
+        "headerWidgetLayout": {
+            "lg": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 42,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 46,
+                    "x": 185,
+                    "y": 0
+                }
+            ],
+            "md": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 36,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 39,
+                    "x": 154,
+                    "y": 0
+                }
+            ],
+            "sm": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 34,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 37,
+                    "x": 117,
+                    "y": 0
+                }
+            ],
+            "xs": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 28,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 31,
+                    "x": 71,
+                    "y": 0
+                }
+            ],
+            "xxs": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 32,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 33,
+                    "x": 47,
+                    "y": 0
+                }
+            ]
+        },
+        "pages": {
+            "9b1ecfc9-8a99-4b73-8e06-f1ce8c233932": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "9b1ecfc9-8a99-4b73-8e06-f1ce8c233932",
+                "isChild": false,
+                "isParam": false,
+                "name": "SuccessPage",
+                "path": ""
+            },
+            "Home": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "Home",
+                "isChild": false,
+                "isParam": false,
+                "name": "Home",
+                "path": ""
+            }
+        },
+        "paneGridWidgetLayouts": {
+            "c6d1fa6d-6a2d-4a44-96a0-63bcdc98a58b": {
+                "lg": [
+                    {
+                        "h": 9,
+                        "i": "d94fc21f-5d0f-4287-94b0-76c9142a4a9d",
+                        "minH": 3,
+                        "w": 13,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "eb4d744c-2953-4a0c-a1b3-f6d62627d849": {
+                "lg": [
+                    {
+                        "h": 9,
+                        "i": "8cba66d8-f6d1-415f-a3a1-bc8819779228",
+                        "minH": 3,
+                        "w": 13,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            }
+        },
+        "paneLayouts": {
+            "9b1ecfc9-8a99-4b73-8e06-f1ce8c233932": {
+                "lg": [
+                    {
+                        "h": 2,
+                        "i": "34e2d288-ee5a-4d25-a8c7-f692230037a4",
+                        "w": 12,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "Home": {
+                "lg": [
+                    {
+                        "h": 4,
+                        "i": "24ad3802-5c43-4a0c-8132-5cde61985827",
+                        "moved": false,
+                        "static": false,
+                        "w": 12,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            }
+        },
+        "panes": {
+            "24ad3802-5c43-4a0c-8132-5cde61985827": {
+                "customPaneId": "",
+                "header": {
+                    "hide": false,
+                    "title": ""
+                },
+                "hiddenBreakpoints": {},
+                "hideBorders": false,
+                "id": "24ad3802-5c43-4a0c-8132-5cde61985827",
+                "pageId": "Home",
+                "tabInfo": {
+                    "activeTab": "eb4d744c-2953-4a0c-a1b3-f6d62627d849",
+                    "tabIds": [
+                        "eb4d744c-2953-4a0c-a1b3-f6d62627d849"
+                    ],
+                    "tabTitles": {
+                        "eb4d744c-2953-4a0c-a1b3-f6d62627d849": "DOUBLE CLICK"
+                    },
+                    "tabbed": false
+                },
+                "themeType": "primary"
+            },
+            "34e2d288-ee5a-4d25-a8c7-f692230037a4": {
+                "customPaneId": "",
+                "header": {
+                    "hide": false,
+                    "title": ""
+                },
+                "hiddenBreakpoints": {},
+                "hideBorders": false,
+                "id": "34e2d288-ee5a-4d25-a8c7-f692230037a4",
+                "pageId": "9b1ecfc9-8a99-4b73-8e06-f1ce8c233932",
+                "tabInfo": {
+                    "activeTab": "c6d1fa6d-6a2d-4a44-96a0-63bcdc98a58b",
+                    "tabIds": [
+                        "c6d1fa6d-6a2d-4a44-96a0-63bcdc98a58b"
+                    ],
+                    "tabTitles": {
+                        "c6d1fa6d-6a2d-4a44-96a0-63bcdc98a58b": "DOUBLE CLICK"
+                    },
+                    "tabbed": false
+                },
+                "themeType": "primary"
+            }
+        },
+        "savedPortalExists": true,
+        "theme": {
+            "graph": {
+                "four": "#E8E7C6",
+                "one": "#6E8592",
+                "three": "#DBA5A8",
+                "two": "#6E93A8"
+            },
+            "info": {
+                "display_name": "Standard",
+                "name": "STANDARD_THEME"
+            },
+            "items": {
+                "main": {
+                    "header": {
+                        "burgerBars": {
+                            "fontColor": "#f5f5f5"
+                        },
+                        "dropdown": {
+                            "fontColor": "#f5f5f5",
+                            "fontFamily": "Helvetica",
+                            "fontSize": 18
+                        },
+                        "styles": {
+                            "backgroundColor": "#6e8592"
+                        }
+                    },
+                    "panes": {
+                        "flyout": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#6e8592"
+                            }
+                        },
+                        "primary": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#6e8592"
+                            },
+                            "tabs": {
+                                "activeTabUnderlineColor": "#425864",
+                                "backgroundColor": "#9db5c2",
+                                "fontColor": "#000000"
+                            }
+                        },
+                        "secondary": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#9db5c2"
+                            },
+                            "tabs": {
+                                "activeTabUnderlineColor": "#425864",
+                                "backgroundColor": "#6e8592",
+                                "fontColor": "#000000"
+                            }
+                        }
+                    },
+                    "portal": {
+                        "styles": {
+                            "backgroundColor": "#ffffff"
+                        }
+                    },
+                    "widgets": {
+                        "BAR_CHART_WIDGET_COMPONENT": {
+                            "barColors": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ],
+                            "brushStroke": "#6e8592",
+                            "legendColor": "#000000"
+                        },
+                        "BUTTON_WIDGET_COMPONENT": {
+                            "backgroundColor": "#f5f5f5",
+                            "backgroundHoverColor": "#c2c2c2",
+                            "borderColor": "#cccccc",
+                            "fontColor": "#000000"
+                        },
+                        "FILTERABLE_LIST_WIDGET_COMPONENT": {
+                            "activeFontColor": "#000000",
+                            "activeItemBackgroundColor": "#6e8592",
+                            "fontColor": "#000000",
+                            "listItemBackgroundColor": "#ffffff",
+                            "titleColor": "#000000"
+                        },
+                        "FORM_WIDGET_COMPONENT": {
+                            "cardBackgroundColor": "#f5f5f5",
+                            "fontColor": "#000000",
+                            "sliderColor": "#6E8592",
+                            "titleColor": "#000000",
+                            "toggleColor": "#6E8592"
+                        },
+                        "GOOGLE_MAP_WIDGET_COMPONENT": {
+                            "mapTheme": ""
+                        },
+                        "GROUPING_LIST_WIDGET_COMPONENT": {
+                            "activeFontColor": "#000000",
+                            "activeItemBackgroundColor": "#6e8592",
+                            "fontColor": "#000000",
+                            "listItemBackgroundColor": "#ffffff",
+                            "titleColor": "#000000"
+                        },
+                        "LINE_CHART_WIDGET_COMPONENT": {
+                            "brushStroke": "#6e8592",
+                            "legendColor": "#000000",
+                            "lineColors": [
+                                {
+                                    "stroke": "#6E8592"
+                                },
+                                {
+                                    "stroke": "#6E93A8"
+                                },
+                                {
+                                    "stroke": "#DBA5A8"
+                                },
+                                {
+                                    "stroke": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "LIST_WIDGET_COMPONENT": {
+                            "activeFontColor": "#000000",
+                            "activeItemBackgroundColor": "#6e8592",
+                            "fontColor": "#000000",
+                            "listItemBackgroundColor": "#ffffff",
+                            "titleColor": "#000000"
+                        },
+                        "PIE_CHART_WIDGET_COMPONENT": {
+                            "cells": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "RADIAL_GAUGE_WIDGET_COMPONENT": {
+                            "backgroundColor": "#c2c2c2",
+                            "progressColor": "#6e8592"
+                        },
+                        "SPEEDOMETER_WIDGET": {
+                            "arrowColor": "#000000",
+                            "sectionColors": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "TEXT_WIDGET_COMPONENT": {
+                            "fontColor": "#000000",
+                            "fontFamily": "Helvetica",
+                            "fontSize": 18
+                        },
+                        "TOGGLE_WIDGET": {
+                            "backgroundColor": "#c2c2c2",
+                            "fontColor": "#000000",
+                            "offColor": "#ffffff",
+                            "onColor": "#6e8592"
+                        }
+                    }
+                }
+            },
+            "palette": {
+                "darkPrimary": "#c2c2c2",
+                "darkSecondary": "#425864",
+                "defaultPrimary": "#f5f5f5",
+                "defaultSecondary": "#6e8592",
+                "lightPrimary": "#ffffff",
+                "lightSecondary": "#9db5c2",
+                "primaryText": "#000000",
+                "secondaryText": "#000000"
+            }
+        },
+        "upgradesPerformed": {
+            "flyoutTitleUpgrade": true,
+            "headerBrandUpgrade": true,
+            "headerTitleUpgrade": true,
+            "widgetResizeUpgrade": true
+        },
+        "widgets": {
+            "8cba66d8-f6d1-415f-a3a1-bc8819779228": {
+                "externalScripts": [],
+                "id": "8cba66d8-f6d1-415f-a3a1-bc8819779228",
+                "props": {
+                    "html": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "force_data": [
+                            "STATIC_DATA_TYPE",
+                            "DYNAMIC_DATA_TYPE"
+                        ],
+                        "incoming_parser": {
+                            "isDebugOn": false,
+                            "value": "return this.datasource;"
+                        },
+                        "value": {
+                            "CSS": "\n",
+                            "HTML": "\u003cdiv class=\"text-center \"\u003e\n    \u003cdiv id=\"input_div\"\u003e\n        For security reasons portals do not hold System Keys and Secrets.  Provide your systems info here, but hardcode these values in a real implementation\n        \u003cinput id=\"systemKey_input\" class=\"form-control\" type=\"text\" placeholder=\"System Key\"\u003e\n        \u003cbr\u003e\n        \u003cinput id=\"systemSecret_input\" class=\"form-control\" type=\"password\" placeholder=\"System Secret\"\u003e\n        \u003cbr\u003e\n        Log into your account\n        \u003cbr\u003e\n        \u003cbr\u003e\n        \u003cinput id=\"email_input\" class=\"form-control\" type=\"text\" placeholder=\"email\"\u003e\n        \u003cbr\u003e\n        \u003cinput id=\"password_input\" class=\"form-control\" type=\"password\" placeholder=\"password\"\u003e\n        \u003cbr\u003e\n        \u003cbutton class=\"btn btn-primary\" id=\"submit_login\"\u003eSubmit\u003c/button\u003e\n        \u003cbr\u003e\n        \n    \u003c/div\u003e\n    \u003cdiv id=\"confirmation_div\"\u003e\n        Enter your confirmation code\n        \u003cbr\u003e\n        \u003cinput id=\"code_input\" class=\"form-control\" type=\"text\" placeholder=\"confirmation code\"\u003e\n        \u003cbr\u003e\n        \u003cbutton class=\"btn btn-primary\" id=\"submit_confirmation\"\u003eSubmit\u003c/button\u003e\n    \u003c/div\u003e\n\n    \u003cdiv id=\"message_div\" style=\"display:inline;color:red\"\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n",
+                            "JavaScript": "//JavaScript\nvar SYSTEM_KEY=\"\";\nvar SYSTEM_SECRET = \"\";\n$(\"#confirmation_div\").hide();\nvar factor_id=\"\";\nvar callAuth = function(payload, callback) {\n    CB_PORTAL.Loader.show()\n    \n    SYSTEM_KEY=$(\"#systemKey_input\").val();\n    SYSTEM_SECRET = $(\"#systemSecret_input\").val();\n    \n    window.ClearBlade.request({\n      method: 'POST',\n      useUser: false,\n      endpoint: 'api/v/1/user/auth',\n      systemKey: SYSTEM_KEY,\n      systemSecret: SYSTEM_SECRET,\n      URI: CB_PORTAL.ClearBlade.URI,\n      timeout: CB_PORTAL.ClearBlade._callTimeout,\n      body: payload\n    }, function (err, response) {\n        CB_PORTAL.Loader.hide()\n\n        callback(err, response)\n      \n    });\n};\n\n$( \"#submit_login\" ).click(function() {\n    var payload = {\n        \"email\":$(\"#email_input\").val(),\n        \"password\":$(\"#password_input\").val(),\n        \"factor\":1\n    }\n    var callbackFactor1 = function(err, response) {\n        if (err || response.options.err) {\n            $(\"#message_div\").text( response.options.message);\n            console.log(JSON.stringify(response));\n        } else {\n             $(\"#input_div\").hide();\n             $(\"#confirmation_div\").show();\n             factor_id = response.options.factor_id;\n            // _this.setUser(email, response.user_token);\n            // execute(false, _this.user, callback);\n            console.log(JSON.stringify(response));\n        }\n    }\n    callAuth(payload, callbackFactor1);\n});\n\n$( \"#submit_confirmation\" ).click(function() {\n    var payload = {\n        \"email\":\"a\",\n        \"password\":\"b\",\n        \"factor_id\":factor_id,\n        \"code\":$(\"#code_input\").val(),\n        \"factor\":2\n    }\n     var callbackFactor2 = function(err, response) {\n        if (err || response.options.err) {\n            $(\"#message_div\").text( response.options.message);\n            console.log(JSON.stringify(response));\n        } else {\n            $(\"#input_div\").hide();\n            $(\"#confirmation_div\").hide();\n            $(\"#message_div\").text( response.options.message);\n            CB_PORTAL.ClearBlade.setUser($(\"#email_input\").val(), response.user_token);\n            console.log(JSON.stringify(response));\n            CB_PORTAL.selectPage(\"/SuccessPage\");\n        }\n    }\n    callAuth(payload, callbackFactor2); \n});"
+                        }
+                    }
+                },
+                "tab": "eb4d744c-2953-4a0c-a1b3-f6d62627d849",
+                "type": "HTML_WIDGET_COMPONENT"
+            },
+            "brand": {
+                "externalScripts": [],
+                "id": "brand",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "value": "ClearBlade"
+                    }
+                },
+                "tab": "HEADER",
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "d94fc21f-5d0f-4287-94b0-76c9142a4a9d": {
+                "externalScripts": [],
+                "id": "d94fc21f-5d0f-4287-94b0-76c9142a4a9d",
+                "props": {
+                    "html": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "force_data": [
+                            "STATIC_DATA_TYPE",
+                            "DYNAMIC_DATA_TYPE"
+                        ],
+                        "incoming_parser": {
+                            "isDebugOn": false,
+                            "value": "return this.datasource;"
+                        },
+                        "value": {
+                            "CSS": "\n",
+                            "HTML": "\u003cdiv class=\"text-center\"\u003e\n  \u003cdiv id=\"resultingUser\"\u003eUSER EMAIL\u003c/h2\u003e\n\u003c/div\u003e\n",
+                            "JavaScript": "//JavaScript\nvar loggedInEmail = CB_PORTAL.ClearBlade.user.email;\nvar loggedInToken = CB_PORTAL.ClearBlade.user.authToken;\nvar message = \"You are logged in as \"+ loggedInEmail + \" with token \"+ loggedInToken;\n$(\"#resultingUser\").text( message);\n    \n"
+                        }
+                    }
+                },
+                "tab": "c6d1fa6d-6a2d-4a44-96a0-63bcdc98a58b",
+                "type": "HTML_WIDGET_COMPONENT"
+            },
+            "flyoutTitle": {
+                "externalScripts": [],
+                "id": "flyoutTitle",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 30,
+                    "textContent": {
+                        "dataType": "CALCULATED_DATA_TYPE",
+                        "value": "return portalTitle"
+                    }
+                },
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "title": {
+                "externalScripts": [],
+                "id": "title",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Trebuchet MS",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "CALCULATED_DATA_TYPE",
+                        "value": "return portalTitle"
+                    }
+                },
+                "tab": "HEADER",
+                "type": "TEXT_WIDGET_COMPONENT"
+            }
+        }
+    },
+    "description": "This portal demonstrates the login user interface for a 2 factor requirement",
+    "last_updated": "12 Apr 18 15:11 UTC",
+    "name": "Two Factor Login",
+    "system_key": "ece9dbac0bc0bdacd7cdb3dca414",
+    "type": "custom_v2"
+}
