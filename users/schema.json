@@ -1,0 +1,12 @@
+{
+    "columns": [
+        {
+            "ColumnName": "sms_phone",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ],
+    "permissions": {
+        "authOverrideRole": 1
+    }
+}
