@@ -1,0 +1,10 @@
+{
+    "current_version": 90,
+    "dependencies": "ConstantsTwoFactor,clearblade,log,http",
+    "logging_enabled": "true",
+    "name": "SetupTwoFactorAuth",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "SetupTwoFactorAuth.js"
+}
