@@ -1,0 +1,13 @@
+{
+    "current_version": 75,
+    "dependencies": "clearblade,log,ConstantsTwoFactor,TwilioSMS",
+    "logging_enabled": "true",
+    "name": "authOverride",
+    "params": [],
+    "permissions": {
+        "Anonymous": 1,
+        "authOverrideRole": 1
+    },
+    "run_user": "80f4dbac0bb8c7b3ddabf9e2ace401",
+    "source": "authOverride.js"
+}
