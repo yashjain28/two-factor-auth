@@ -1,0 +1,55 @@
+{
+    "Description": "This role is used for the auth override service.  It has the ability to CRUD against the TwoFactorAuth collection and the ability to read users phone numbers.  It also can execute the auth override service",
+    "ID": "d8efdbac0b98f387a1cbdcfcef5b",
+    "Name": "authOverrideRole",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "authOverride",
+                "SystemKey": "ece9dbac0bc0bdacd7cdb3dca414"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "b8f2dbac0b84ece7baa6f9c6a1f801",
+                "Items": [],
+                "Level": 15,
+                "Name": "TwoFactorAuthTokens"
+            }
+        ],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 0
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 1
+        }
+    }
+}
