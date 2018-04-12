@@ -1,0 +1,93 @@
+{
+    "app_id": "ece9dbac0bc0bdacd7cdb3dca414",
+    "collection_id": "b8f2dbac0b84ece7baa6f9c6a1f801",
+    "items": [
+        {
+            "auth_date": "2018-04-11T21:18:27.537Z",
+            "auth_token": "9L8CIcl-DpCJlWDIbA4yk_YMSDI6kABZXsaxsKt5zi63ONQGr9DtvCn9DPqtrRrOK_kAE29Q5NTXCW4Oxw==",
+            "email": "test@clearblade.com",
+            "item_id": "7395a826-96e7-4b1f-ad33-78ed35c96bff",
+            "sms_code": "6562"
+        },
+        {
+            "auth_date": "2018-04-11T21:20:10.204Z",
+            "auth_token": "PT9jHMyY_kCowrS4un5tBk27oQpYjAoKrmErslThUVcYCbCs5eOW_FLJgVaELBiV7w0M8Z9kwDZbXiV4kA==",
+            "email": "test@clearblade.com",
+            "item_id": "7e8034ba-d132-49a4-a690-254f6c399d80",
+            "sms_code": "9433"
+        },
+        {
+            "auth_date": "2018-04-11T21:16:32.741Z",
+            "auth_token": "-O1rukYhuKkd_GJwamzBlk9bHu4KdDA3mI27_yol_KTr9ftMEbDzmYhP-VZpKBQAA_7EBjqWi-IN79UufQ==",
+            "email": "test@clearblade.com",
+            "item_id": "acdf269b-3b76-4cbb-97dd-7a4d11d99b7b",
+            "sms_code": "6122"
+        },
+        {
+            "auth_date": "2018-04-11T21:10:59.297Z",
+            "auth_token": "aUE8AovkByYQV_aysh_Pu5VduVkyguKghbElRJdEB0EKA_9EVs1HF7SeuYyecD5kDqSCsnx_5TEn_GQjNA==",
+            "email": "test@clearblade.com",
+            "item_id": "ba3a7745-bc5a-4a2b-a719-55366eb1a12a",
+            "sms_code": "5416"
+        },
+        {
+            "auth_date": "2018-04-11T21:09:54.674Z",
+            "auth_token": "uUmNcROSddYU2Xotz4ZYlWpBKqXhEqWf4MTLoCLnoaXQh4HJkyoj2NdhD0Ync7crGGHy3S0qmr4N24HW8A==",
+            "email": "test@clearblade.com",
+            "item_id": "ba7555a5-dc66-4bec-a492-e6f5d87c3692",
+            "sms_code": "4395"
+        },
+        {
+            "auth_date": "2018-04-11T21:11:36.061Z",
+            "auth_token": "PrgNdzc5c-DuTb3rY71Dpwg1wCtyC9qFDHzpppJbVGyXgth7ZIsOPXSU_V6eK-Ism96oh0KJERNfFUgIKA==",
+            "email": "test@clearblade.com",
+            "item_id": "c03da032-58e1-4f89-a37c-5ac522358e23",
+            "sms_code": "3013"
+        },
+        {
+            "auth_date": "2018-04-11T21:14:53.981Z",
+            "auth_token": "fRgfzwytMvjGj9CoXWed2akuYUm62HAMXwPhWRLzFBTpTWh_eOtZQZnN6WbEu1YDq5bmwjHPC47esagl2w==",
+            "email": "test@clearblade.com",
+            "item_id": "eacf4a35-f4ac-47e3-b297-1d0a45d94618",
+            "sms_code": "6956"
+        },
+        {
+            "auth_date": "2018-04-11T21:13:49.16Z",
+            "auth_token": "UNvOdTIHR4C7j1zK73Dr4g2ZpgHoZ_5sso_8UINnICzYzgaB5q9-ZrCw9KoagxQhsaRTne4ViiE-IbsB5g==",
+            "email": "test@clearblade.com",
+            "item_id": "f672af47-c35c-4199-9b75-2a393993bc51",
+            "sms_code": "8973"
+        }
+    ],
+    "name": "TwoFactorAuthTokens",
+    "permissions": {
+        "authOverrideRole": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "email",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "auth_token",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sms_code",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "auth_date",
+            "ColumnType": "timestamp",
+            "PK": false
+        }
+    ]
+}
