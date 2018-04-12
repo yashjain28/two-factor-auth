@@ -1,0 +1,30 @@
+{
+    "author": {
+        "email": "a@a.com"
+    },
+    "clouds": [
+        "twilio"
+    ],
+    "description": "A package demonstrating the process of adding multi-factor user auth to security of an IoT Solution",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "two factor",
+        "multifactor",
+        "factor",
+        "auth"
+    ],
+    "license": "MIT",
+    "name": "two-factor-auth",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [
+        "sms"
+    ],
+    "things": [],
+    "version": "1.0.0"
+}
