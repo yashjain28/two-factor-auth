@@ -11,8 +11,6 @@ This is an ipm package, which contains one or more reusable assets within the ip
 
 [![Live demonstration](https://img.youtube.com/vi/1mlW_3tp29o/0.jpg)](https://www.youtube.com/watch?v=1mlW_3tp29o)
 
-<a href="https://www.youtube.com/watch?v=1mlW_3tp29o" target="_blank" ><img alt="Live demonstration" src="https://img.youtube.com/vi/1mlW_3tp29o/0.jpg"></a>
-
 ## Setup
 
 To setup this example the following 4 steps are required.
