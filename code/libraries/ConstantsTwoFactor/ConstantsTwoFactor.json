@@ -1,8 +1,0 @@
-{
-    "api": "",
-    "dependencies": "",
-    "description": "This Library contains reusable constants for the Factor Auth steps",
-    "name": "ConstantsTwoFactor",
-    "version": 10,
-    "visibility": "system"
-}

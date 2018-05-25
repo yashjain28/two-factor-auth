@@ -1,8 +1,8 @@
-function SetupTwoFactorAuth(req, resp){
+function TwoFactorAuthSetup(req, resp){
     var portalEditorPassword            = "clearblade";         // change this to something unique
     var authOverrideServiceUserPassword = "clearblade";         // change this to something unique
     var testUserPassword                = "password";           // change this to something unique
-    var testUserSMSPhone                = "(+1 888-555-5555)";  // Set this to a real mobile phone number 
+    var testUserSMSPhone                = "(+1 512-000-0000)";  // Set this to a real mobile phone number 
     
     var response = {
         err:false,

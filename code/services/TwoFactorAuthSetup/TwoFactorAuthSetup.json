@@ -1,0 +1,13 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 7,
+    "dependencies": "clearblade,log,TwoFactorConstants,http",
+    "execution_timeout": 0,
+    "logging_enabled": "true",
+    "name": "TwoFactorAuthSetup",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "TwoFactorAuthSetup.js"
+}

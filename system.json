@@ -1,10 +1,10 @@
 {
     "auth": true,
     "deployments": [],
-    "description": "A system demonstration the process of adding multi-factor auth to security model",
-    "messaging_url": "platform.clearblade.com:1883",
-    "name": "Two Factor Auth",
-    "platform_url": "http://dev.clearblade.com",
-    "system_key": "ece9dbac0bc0bdacd7cdb3dca414",
-    "system_secret": "ECE9DBAC0BE4D0A2F8D4EBDD8C0F"
+    "description": "",
+    "messaging_url": "staging.clearblade.com:1883",
+    "name": "two-factor-auth",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "",
+    "system_secret": ""
 }

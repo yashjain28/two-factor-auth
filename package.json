@@ -1,30 +1,54 @@
 {
-    "author": {
-        "email": "a@a.com"
-    },
+    "author": "Aaron Allsbrook <aaron@clearblade.com>",
     "clouds": [
         "twilio"
     ],
     "description": "A package demonstrating the process of adding multi-factor user auth to security of an IoT Solution",
     "domains": [],
     "gateways": [],
-    "image_url": "https://i.imgur.com/5ZWb57T.png",
+    "image_url": "",
     "keywords": [
         "clearblade",
         "iot",
         "platform",
+        "authentication",
+        "two",
+        "factor",
+        "security",
+        "sms",
+        "step",
+        "authorization",
+        "authoverride",
         "two factor",
         "multifactor",
         "factor",
         "auth"
+
     ],
     "license": "MIT",
     "name": "two-factor-auth",
     "private": false,
-    "prog_lang": [],
+    "prog_lang": ["javascript"],
     "protocols": [
         "sms"
     ],
     "things": [],
-    "version": "1.0.0"
+    "version": "2.0.0",
+    "dependencies": {
+        "TwilioSMSLib": "1.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aallsbrook/two-factor-auth.git"
+    },
+    "bugs": {
+        "url": "https://github.com/aallsbrook/two-factor-auth/issues"
+    },
+    "homepage": "https://github.com/aallsbrook/two-factor-auth#readme",
+    "devDependencies": {
+        "jsdoc-to-markdown": "^4.0.1"
+    },
+    "scripts": {
+        "jsdoc": "jsdoc2md code/libraries/TwoFactorLib/*.js > jsdoc.md"
+    }
 }

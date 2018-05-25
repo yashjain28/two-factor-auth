@@ -1,8 +1,0 @@
-{
-    "api": "",
-    "dependencies": "http",
-    "description": "Library for Sending Text Messages",
-    "name": "TwilioSMS",
-    "version": 20,
-    "visibility": "system"
-}

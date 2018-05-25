@@ -1,0 +1,16 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 11,
+    "dependencies": "TwilioSMSLib,TwoFactorConstants,TwoFactorLib,clearblade,log",
+    "execution_timeout": 0,
+    "logging_enabled": "true",
+    "name": "TwoFactorAuthOverride",
+    "params": [],
+    "permissions": {
+        "Anonymous": 1,
+        "authOverrideRole": 1
+    },
+    "run_user": "e8e3b8b00bf4e8c1b48bfbed95a801",
+    "source": "TwoFactorAuthOverride.js"
+}

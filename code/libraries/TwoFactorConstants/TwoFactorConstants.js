@@ -1,4 +1,6 @@
-var PLATFORM_URL = "";
+
+
+var PLATFORM_URL = "https://staging.clearblade.com";
 
 var TWILIO_KEY = "";
 var TWILIO_SECRET ="";

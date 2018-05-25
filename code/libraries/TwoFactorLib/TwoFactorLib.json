@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "clearblade,log,TwoFactorConstants",
+    "description": "",
+    "name": "TwoFactorLib",
+    "version": 62,
+    "visibility": "system"
+}
